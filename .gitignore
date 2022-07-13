@@ -1,0 +1,4 @@
+# ignore bytecode files
+__pycache__/
+*.py[cod]
+openpose
