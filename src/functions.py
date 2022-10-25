@@ -1,7 +1,7 @@
 import math
 import os
 import json
-
+import vector
 
 def angle_from_frame(joint, frame):
 	# creates array of the output of calc_angle function
