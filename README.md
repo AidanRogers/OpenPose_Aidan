@@ -5,7 +5,7 @@ This project requires openpose to be installed https://github.com/CMU-Perceptual
 Ensure that tkinter, numpy and matplotlib are installed: `pip3 install tk numpy	 matplotlib`  
 
 ### Installation Instructions:  
-Clone the repository using git `git clone https://github.com/kembr/openpose-pipeline.git` or altneratively download as a zip file.  
+Clone the repository using git `git clone https://github.com/AidanRogers/OpenPose_Aidan` or altneratively download as a zip file.  
 
 ### Usage:  
 1. After running openpose on a video file using the flag `--write_json [output_folder]`   
